@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UTS MDP</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="app_logo">App Logo</string>
+    <string name="popular_anime">Popular Anime</string>
+    <string name="anime_image">Anime Image</string>
+    <string name="anime_cover">Anime Cover</string>
+    <string name="welcome_user">Welcome, %1$s!</string>
+    <string name="error_empty_fields">Email and Password must be filled</string>
+</resources>
