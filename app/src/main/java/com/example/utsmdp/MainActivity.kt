@@ -4,10 +4,10 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.utsmdp.R
-import com.example.utsmdp.adapter.AnimeAdapter
+import com.example.utsmdp.AnimeAdapter
 import com.example.utsmdp.databinding.ActivityMainBinding
 import com.example.utsmdp.model.Anime
-import com.example.utsmdp.util.AnimeData
+import com.example.utsmdp.AnimeData
 
 class MainActivity : AppCompatActivity() {
 
